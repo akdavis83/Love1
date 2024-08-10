@@ -1,4 +1,4 @@
-sparks.js
+Sparks.js
 =========
 #### Simple 3D Javascript Particles Engine ####
 
